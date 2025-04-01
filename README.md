@@ -27,3 +27,5 @@ Este tema foi criado para personalizar o GRUB de maneira simples.
 Se precisar de ajuda, consulte a documentação ou entre em contato!
 
 ---
+
+## creditor para @OrlyonBR #UserDiscord
